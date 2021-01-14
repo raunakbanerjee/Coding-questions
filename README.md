@@ -1,1 +1,1 @@
-# Some solved coding questions
+Some coding questions
