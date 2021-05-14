@@ -1,6 +1,7 @@
+/*
 Basically I will create a freq array and push in all the char freq of string 1 and then I will remove the char freq of string 2.
 If the freq array has any box with non zero value then it means its not an anagram basically.
-
+*/
 
 bool isAnagram(char a[], char b[]){
     
