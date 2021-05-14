@@ -1,9 +1,10 @@
-Check if a given string is palindromic or not
+/*Check if a given string is palindromic or not
 
 I/P : abba  O/P- 1
 I/P : heli  O/P- 0
+*/
 
-#CODE
+
 
 int isPlaindrome(string S)
 	{
