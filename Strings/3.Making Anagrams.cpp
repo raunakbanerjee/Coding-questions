@@ -32,3 +32,9 @@ for(int i=0;i<256;i++){
 }
 return sum;
 }
+
+
+Note:
+/* Avariation to the problem might involve find minimum number of manipulations req to make 2 strings anagrams.
+     Lets do a dey run. Lets suppose the strings were (buy and bye).Here we need to change either y/e.So ans is 1.The only change we'll make to our code is return sum/2 as 
+          we are counting all possible changes but here we only need the min
