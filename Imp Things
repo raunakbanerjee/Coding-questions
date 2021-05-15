@@ -1,3 +1,4 @@
 1.To sort a vector
   sort(v.begin(),v.end())
-2.  
+2. Declaring a vector  with size and elements vector<int> v(size,elements)
+
