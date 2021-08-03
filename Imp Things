@@ -2,3 +2,6 @@
   sort(v.begin(),v.end())
 2. Declaring a vector  with size and elements vector<int> v(size,elements)
 
+3.Length of string is--> s.length()
+Length of char array is--> strlen(s)
+
