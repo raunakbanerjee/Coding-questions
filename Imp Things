@@ -5,3 +5,12 @@
 3.Length of string is--> s.length()
 Length of char array is--> strlen(s)
 
+
+Sets.
+Can hold only unqiue elements,wont store duplicate elements.
+if{
+s.find('x')==s.end()}
+do so and so work
+means that if x exists in s do something.
+
+
